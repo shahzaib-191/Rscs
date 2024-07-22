@@ -25,7 +25,7 @@ const Header = () => {
             className="flex items-center mb-4 md:mb-0"
           >
             <Image
-              src="/logo.png" // Adjust the path according to your project structure
+              src="/Logo.png" // Adjust the path according to your project structure
               alt="Company Logo"
               width={150}
               height={50}
